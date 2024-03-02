@@ -8,4 +8,4 @@ print(df)
 
 df = df.replace(None, 0)
 
-
+pd.to_csv("cleaned_data")
