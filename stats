@@ -1,0 +1,35 @@
+name
+salary
+position
+games played
+minutes
+points
+eFG%
+FT%
+TRB
+AST
+STL
+BLK
+TOV
+
+gp / 82
+points / 9.13
+minutes / 19.87
+eFG% / .533
+FT% / 71.6
+TRB / 3.528
+AST / 2.11
+STL / .61
+BLK / .379
+TOV / 1.114
+
+points + assists + rebounds + TOV 5
+GP + MINUTES 4
+STL BLK 3
+eFG% 2
+FT% 1
+
+
+
+
+
